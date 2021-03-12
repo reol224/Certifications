@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/cWEDNL5.png "Logo Title Text 1")
+
 # Certifications
 my mighty papers
 
