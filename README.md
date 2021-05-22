@@ -10,3 +10,4 @@ my mighty papers
 | --- | --- |
 | M001: MongoDB Basics| [Check me out](https://university.mongodb.com/course_completion/88067596-4cb2-498e-8d9d-85bb920c91c0?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)|
 | Google Cloud Platform Fundamentals: Core Infrastructure| [Check me out](https://coursera.org/share/fe5929136aacc0ddf534ce6d187bc726) |
+| Essential Google Cloud Infrastructure: Foundation| [Check me out](https://coursera.org/share/fbef0fa851e6faf63761f428060b7ec7) |
